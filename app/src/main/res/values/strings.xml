@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+
+
+    <string name="Greentea">Green tea is made from the leaves of the tea plant that have not undergone the same withering and oxidation process as oolong tea and black tea. Green tea originated in China but the production process spread to many countries in Asia.</string>
+
+    <string name="Latte">Coffee latte is a drink of Italian origin consisting of the main ingredients of coffee and whipped milk, this drink is consumed regularly both at home and in cafes and bars. </string>
+
+    <string name="Cappuccino">Cappuccino is an Italian drink consisting of coffee and steamed milk.
+        In Italy, the country where this drink is most popular, is traditionally enjoyed in the morning, at breakfast or later, never with a meal.</string>
+
+    <string name="Espresso">Espresso is a method of brewing coffee originating from Italy in which a small amount of boiling water is roughly pressed under pressure (squeezed) through ground coffee beans.
+        Espresso is also the basis for many other coffee-based beverages such as latte, cappuccino, macchiato, mocha, flat white and Americano.</string>
+
+    <string name="Americano">Americano is a style of coffee prepared by adding hot water to espresso, which gives the coffee a similar strength, but a different flavor, like filter coffee.
+        The protein content of an Americano varies with the number of espressos and the amount of water added.</string>
+
+    <string name="Macchiato">Macchiato is a very popular hot beverage. Its ingredients include espresso and milk.
+        Macchiato has very little caffeine, so it is often loved and is served with a straw and a cookie. </string>
+
+
+</resources>
